@@ -1,5 +1,5 @@
 ## movies
 
 # Damian Duarte
-# Axel Bustos
+# Axel Bustos ,25, cutral-co
 # Ramiro Quiroga
