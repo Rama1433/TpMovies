@@ -2,4 +2,4 @@
 
 # Damian Duarte
 # Axel Bustos
-# Ramiro Quiroga, 21 años, San Miguel.
+# Ramiro Quiroga, 21 años, San Miguel
